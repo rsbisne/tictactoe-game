@@ -1,5 +1,6 @@
 # Tic Tac Toe game
-A fun simple strategy game with attractive page layout.
+
+<!-- A fun simple strategy game with attractive page layout.
 Features:-
 1) Two players "X" and "O".
 2) Winner and Player's turn handler.
@@ -8,4 +9,4 @@ Features:-
 Upcoming:-
 1) Scoreboard.
 2) Two browser game.
-3) Login board.
+3) Login board. -->
